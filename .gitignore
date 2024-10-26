@@ -17,8 +17,3 @@ docs/
 lib/
 
 .github
-
-# Add a .gitkeep file in each:
-src/.gitkeep
-script/.gitkeep
-test/.gitkeep
